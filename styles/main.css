@@ -1,0 +1,20 @@
+header {width: 1920px;}
+header p{
+    height: 37px;
+    background-color: #FFCB00;
+    text-align: center;
+}
+head nav {position: relative;}
+header nav h1 {}
+header nav h1 img {width: 153px; height: 48px;}
+header nav .gnb {position: absolute; right: 30%;} 
+header nav .gnb li  {display: flex; float: left; margin-right: 22px;}
+header nav .util {}
+header nav .util a {}
+header nav .util img {width: 21px; height: 21px; margin-left: 5px;}
+main {}
+main img {width: 100%;}
+content {width: 1420px;}
+content h2 p {margin: 107px 0 42px 0;}
+content h2 img {}
+content h2 img img {width: 685px; height: 461px;}
